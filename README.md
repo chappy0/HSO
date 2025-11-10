@@ -118,7 +118,7 @@ If you find this work useful in your research, please consider citing our paper:
 ```bibtex
 @inproceedings{zhu2026hso,
   title     = {Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling},
-  author    = {Aihua Zhu and Rui Su and Qinglin Zhao and Li Feng and Meng Shen and Shibo He},
+  author    = {Zhu, Aihua and Su, Rui and Zhao, Qinglin and Feng, Li and Shen, Meng and He, Shibo},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year      = {2026}
 }
