@@ -57,7 +57,7 @@ After downloading, place the `.ckpt` files into a `checkpoints` directory at the
 
 This codebase is specifically tuned for the noise schedule of `stabilityai/stable-diffusion-2-1`.
 
-Our optimization method (HSO) is highly dependent on the model's specific noise progression (i.e., the mapping from timestep $t$ to $\alpha_t$ and $\sigma_t$). If you wish to adapt this repository for a different model (e.g., SD 1.5, SDXL, PixArt-$\alpha$), you **must** implement that model's unique noise schedule in the code. Simply loading different weights will not work and will produce poor results.
+Our optimization method (HSO) is highly dependent on the model's specific noise progression (i.e., the mapping from timestep $t$ to $\alpha_t$ and $\sigma_t$). If you wish to adapt this repository for a different model (e.g., SD 1.5, SDXL, PixArt-\alpha), you must implement that model's unique noise schedule in the code. Simply loading different weights will not work and will produce poor results.
 
 -----
 
