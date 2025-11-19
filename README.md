@@ -4,9 +4,9 @@
 > This repository is the official implementation for our AAAI 2026 paper:
 > **Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling**
 >
-> [Official paper link will be added upon publication]
+> Official paper link:https://arxiv.org/abs/2511.11688
 
-This repository provides an implementation of Stable Diffusion v2.1 focused on accelerated inference. It uses an automated script to discover optimal sampling schedules, enabling faster high-quality image generation from text prompts.
+This repository provides an implementation of Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling. It uses an automated script to discover optimal sampling schedules, enabling faster high-quality image generation from text prompts.
 
 -----
 
